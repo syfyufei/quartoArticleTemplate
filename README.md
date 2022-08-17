@@ -2,7 +2,7 @@
 
 This Quarto format will help you create documents for journal articles. For more about producing LaTeX output for journals, see <https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions>.
 
-## Creating a New Article
+## Creating a New PDF Article
 
 You can use this as a template to create an article for journals. To do this, use the following command:
 
@@ -107,3 +107,7 @@ format:
         - Highlight 2 
         - Highlight 3
 ```
+
+## Creating a New Microsoft Office Word Article
+
+You can use the `docx:` parameter to create documents in Microsoft Office Word format for Chinese journal articles.

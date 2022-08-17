@@ -50,6 +50,9 @@ format:
       formatting: preprint
       model: 3p
       cite-style: authoryear
+# You can use this parameter to create documents in Microsoft Office Word format for Chinese journal articles
+#   docx:
+#     reference-doc: template_cn.docx
 header-includes:
     - \usepackage{ctex}
     
